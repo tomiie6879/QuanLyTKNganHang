@@ -2,6 +2,7 @@
 double balance = 0;
 double withdraw = 0;
 double currentBalance = 0;
+int input;
 
 
 
@@ -22,7 +23,16 @@ try
     Console.WriteLine("1.Xem So du");
     Console.WriteLine("2. Nhap so tien muon rut");
     Console.WriteLine("3.Thoat ");
-    int input =  int.Parse(Console.ReadLine());
+    do
+    {
+      input = int.Parse(Console.ReadLine());
+      if (input <= 0 || input > 3)
+      {
+          Console.WriteLine("Vui long nhap so tu 1 den 3 de chon chuc nang");
+      }
+
+    } while (input <= 0 || input >3);
+   
     switch (input)
     {
         case 1:
@@ -40,6 +50,9 @@ try
             currentBalance = balance - withdraw;
             Console.WriteLine(" Rut tien thanh cong ");
             Console.WriteLine($"So du con lai la {currentBalance}");
+            break;
+        case 3:
+            Console.WriteLine("Thoat chuong trinh  ");
             break;
         default:
             Console.WriteLine(" Vui long chon chuc nang  ");
