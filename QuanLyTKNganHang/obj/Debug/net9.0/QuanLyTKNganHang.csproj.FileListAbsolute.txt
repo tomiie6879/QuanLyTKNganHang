@@ -1,0 +1,14 @@
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\bin\Debug\net9.0\QuanLyTKNganHang.exe
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\bin\Debug\net9.0\QuanLyTKNganHang.deps.json
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\bin\Debug\net9.0\QuanLyTKNganHang.runtimeconfig.json
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\bin\Debug\net9.0\QuanLyTKNganHang.dll
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\bin\Debug\net9.0\QuanLyTKNganHang.pdb
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.dll
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\refint\QuanLyTKNganHang.dll
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.pdb
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\ref\QuanLyTKNganHang.dll
