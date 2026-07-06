@@ -12,3 +12,4 @@ C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\
 C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.pdb
 C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.genruntimeconfig.cache
 C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\ref\QuanLyTKNganHang.dll
+C:\Users\admin\RiderProjects\QuanLyTKNganHang\QuanLyTKNganHang\obj\Debug\net9.0\QuanLyTKNganHang.sourcelink.json
