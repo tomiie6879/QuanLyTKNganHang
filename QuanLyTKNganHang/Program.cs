@@ -47,6 +47,11 @@ try
                 throw new Exception(" So du khong du");
             }
 
+            if (withdraw < 0)
+            {
+                throw new Exception(" so tien rut phai lon hon 0");
+            }
+
             currentBalance = balance - withdraw;
             Console.WriteLine(" Rut tien thanh cong ");
             Console.WriteLine($"So du con lai la {currentBalance}");
